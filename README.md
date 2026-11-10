@@ -60,10 +60,14 @@ By the end of this repository you will be able to:
 
 ---
 
-## Previous Stage
+---
 
-⬅️ SP-003 Troubleshooting
+## Continue Your Journey
 
-## Next Stage
+⬅️ Previous Stage: [SP-003 Troubleshooting](https://github.com/joelmcdavid/SP-003-Troubleshooting)
 
-➡️ SP-005 AI Solutionist
+➡️ Next Stage: [SP-005 AI Solutionist](https://github.com/joelmcdavid/SP-005-AI-Solutionist)
+
+Architects design systems.
+
+Solutionists transform organisations.
